@@ -1,4 +1,4 @@
-package Assignment_6;
+
 //Run-time Polymorphism example:
 class Animal
 {
